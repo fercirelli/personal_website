@@ -1,0 +1,9 @@
+@article{cirelli2021designing,
+  title={Designing unemployment insurance for developing countries},
+  author={Cirelli, Fernando and Espino, Emilio and S{\'a}nchez, Juan M},
+  journal={Journal of Development Economics},
+  volume={148},
+  pages={102565},
+  year={2021},
+  publisher={Elsevier}
+}
