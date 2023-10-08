@@ -1,0 +1,6 @@
+@techreport{cirelli2022economic,
+  title={Economic winners versus losers and the unequal pandemic recession},
+  author={Cirelli, Fernando and Gertler, Mark},
+  year={2022},
+  institution={National Bureau of Economic Research}
+}
