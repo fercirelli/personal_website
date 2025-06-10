@@ -1,0 +1,9 @@
+@unpublished{CirelliOlafsson2025,
+  title     = {What Makes Depositors Tick? Bank Data Insights into Households’ Liquid Asset Allocation},
+  author    = {Fernando Cirelli and Arna Olafsson},
+  note      = {Working paper},
+  month     = jun,
+  year      = {2025},
+  url       = {https://example.com}, % Replace with actual URL if available
+  institution = {Columbia University and Copenhagen Business School}
+}
