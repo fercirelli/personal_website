@@ -2,6 +2,6 @@
   title     = {What Makes Depositors Tick? Bank Data Insights into Households' Liquid Asset Allocation},
   author    = {Fernando Cirelli and Arna Olafsson},
   note      = {Working paper},
-  month     = aug,
+  month     = sept,
   year      = {2025}
 }
