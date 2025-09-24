@@ -1,7 +1,10 @@
-@unpublished{CirelliOlafsson2025,
-  title     = {What Makes Depositors Tick? Bank Data Insights into Households' Liquid Asset Allocation},
-  author    = {Fernando Cirelli and Arna Olafsson},
-  note      = {Working paper},
-  month     = sept,
-  year      = {2025}
+@techreport{CirelliOlafsson2025,
+  author       = {Cirelli, Fernando and Olafsson, Arna},
+  title        = {What Makes Depositors Tick? Bank Data Insights into Households’ Liquid Asset Allocation},
+  institution  = {CEPR Discussion Paper},
+  year         = {2025},
+  number       = {DP20612},
+  address      = {Paris and London},
+  publisher    = {CEPR Press},
+  url          = {https://cepr.org/publications/dp20612}
 }
